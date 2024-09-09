@@ -4,7 +4,7 @@
 # @file
 # @version 0.1
 
-say-hello
+say-hello:
 	echo 'Hello, World!'
 
 # end
